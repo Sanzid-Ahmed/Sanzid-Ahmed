@@ -31,9 +31,9 @@
 
 ### ✏️ Familiar with (programming languages)
 
-| Language | Topics | Libraries/ Frameworks |
-| :--- | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> | Fundamentals, Arrays, Functions, Pointers, Structures |
+| Language | Topics | Libraries/ Frameworks/ Others | Practice repositories | 
+| :--- | :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> | Fundamentals, Arrays, Functions, Pointers, Structures | [Self Practice](https://github.com/Sanzid-Ahmed/c-journey-practice) [University Practice One](https://github.com/Sanzid-Ahmed/cse-1st-trimester-codes) [University Practice Two](https://github.com/Sanzid-Ahmed/cse-2nd-trimester-codes) | 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Competitive Programming, STL basics, OOP basics |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> | Basics to Threads |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> | React.js & front-end projects | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> |
