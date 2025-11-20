@@ -22,12 +22,12 @@
 
 ### 💻 Web Development & Technologies
 
-| Logo | Technology | Focus & Application |
-| :---: | :--- | :--- |
-| 📄 | **HTML** | Structure & Semantics |
-| 🎨 | **CSS / Tailwind CSS** | Styling & Responsive Design |
-| ⚛️ | **React.js** | Front-end development & project building |
-| 🛠️ | **MERN Stack** | Currently learning & applying for full-stack projects |
+| Skills Overview | Technology |
+| :---: | :--- |
+| Languages | ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| Front-End Technologies |  |
+| Back-End Technologies | |
+| Tools & Platforms |  |
 
 ---
 
