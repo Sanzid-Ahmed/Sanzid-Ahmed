@@ -29,7 +29,7 @@
 
 ***
 
-### ✏️ Programming Languages
+### ✏️ Familiar with (programming languages)
 
 | Language | Topics | Libraries/ Frameworks |
 | :--- | :--- | :--- |
