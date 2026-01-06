@@ -1,12 +1,42 @@
+<p align="center">
+  <img src="https://i.ibb.co.com/pvKS6vNf/Gemini-Generated-Image-of920nof920nof92.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sanzid Ahmed</h1>
 <h4 align="center">Write code 💻 and make ideas into reality!</h4>
+<p align="center">
+  Currently focused on modern web ecosystems and the bridge between Software & Robotics.
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-blue?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Aspiring%20AI%20%26%20Robotics%20Engineer-red?style=flat-square&logo=arduino" />
+  <img src="https://img.shields.io/badge/-MERN%20Stack-green?style=flat-square&logo=mongodb" />
+</p>
 
-| 🚀 **What I'm Doing** | 💡 **My Passions** |
+<div align="center">
+
+| 🚀 What I'm Doing | 💡 My Passions |
 | :--- | :--- |
-| ✨ Learning **MERN** (MongoDB, Express, React, Node) and building cool full-stack web projects. | **Software Engineer** and Aspiring for **AI, ML & Robotics**🤖.. |
+| Learning **MERN** (MongoDB, Express, React, Node) and building cool full-stack web projects. | **Software Engineer** and Aspiring for **AI, ML & Robotics** 🤖 |
+
+</div>
+
 ---
 
-<h1 align="center">🛠️ Skills</h1>
+### 📝 About Me
+I am a passionate web developer and software engineer who loves to turn ideas into reality. Currently, I am exploring modern web technologies, building projects, and preparing for AI & ML.
+
+### 🔭 Current Activities
+- ⚡ **Exploring Next.js** for better web performance and SSR.
+- 🏖️ **Tourism Website:** Working on a project using React and Tailwind CSS.
+- 📈 **GitHub Growth:** Continuously improving my profile with real-world projects.
+- 🎓 **Academic Journey:** Learning AI & ML concepts alongside university studies.
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
 
 <h2 align="center">🌐 Web Development</h2>
 
@@ -18,9 +48,14 @@
 | Database | ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248) |
 | Tools & Platforms | ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF) ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)|
 
-<h2>🚀 Projects</h2>
 
-| # | Project Name | Description | Links |
+</div>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+  | # | Project Name | Description | Links |
 | :---: | :--- | :--- | :---: |
 | **1.** | **[AssetVerse](https://assetverse-119d3.web.app)** | A React-based web app that … (e.g., uses hooks and state management for a seamless user experience.) | [Live Demo 🌐](https://assetverse-119d3.web.app) \| [Code 🔗](https://github.com/Sanzid-Ahmed/ph-assignment-11-client) |
 | **2.** | **[freemarket]( https://freemarket-5612f.web.app)** | MERN stack project for … (e.g., a simple task manager with CRUD operations and user authentication.) | [Live Demo 🌐]( https://freemarket-5612f.web.app) \| [Code 🔗]( https://github.com/Sanzid-Ahmed/ph-assignment-10-client) |
@@ -29,15 +64,34 @@
 
 ***
 
-### ✏️ Familiar with (programming languages)
-
-| Language | Topics | Libraries/ Frameworks/ Others | Practice repositories | 
-| :--- | :--- | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> | Fundamentals, Arrays, Functions, Pointers, Structures | |[Self Practice 🔗](https://github.com/Sanzid-Ahmed/c-journey-practice) \| [University Practice One 🔗](https://github.com/Sanzid-Ahmed/cse-1st-trimester-codes) \| [University Practice Two 🔗](https://github.com/Sanzid-Ahmed/cse-2nd-trimester-codes) | 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Competitive Programming, STL basics, OOP basics |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> | Basics to Threads |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> | React.js & front-end projects | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> |
 ---
 
+<h2 align="center">✏️ Programming Foundations</h2>
+<div align="center">
 
-***
+| Language | Mastery & Topics | Practice Repos |
+| :--- | :--- | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25"/> **C** | Fundamentals, Pointers, Structures | [Self](https://github.com/Sanzid-Ahmed/c-journey-practice) / [Uni 1](https://github.com/Sanzid-Ahmed/cse-1st-trimester-codes) / [Uni 2](https://github.com/Sanzid-Ahmed/cse-2nd-trimester-codes) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> **C++** | Competitive Programming, STL, OOP | *In Progress* |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> **Java** | Basics to Multi-threading | *In Progress* |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> **JS** | React.js & Modern Ecosystems | [View Projects](#-featured-projects) |
+
+</div>
+
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+<div align="center">
+  <a href="https://github.com/Sanzid-Ahmed" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sanzid-ahmed/" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://x.com/Sanzid_Ahmed_" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
