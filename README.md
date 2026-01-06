@@ -15,24 +15,13 @@
 
 <div align="center">
 
-| 🚀 What I'm Doing | 💡 My Passions |
-| :--- | :--- |
-| Learning **MERN** (MongoDB, Express, React, Node) and building cool full-stack web projects. | **Software Engineer** and Aspiring for **AI, ML & Robotics** 🤖 |
-
-</div>
-
----
-
 ### 📝 About Me
-I am a passionate web developer and software engineer who loves to turn ideas into reality. Currently, I am exploring modern web technologies, building projects, and preparing for AI & ML.
 
-### 🔭 Current Activities
-- ⚡ **Exploring Next.js** for better web performance and SSR.
-- 🏖️ **Tourism Website:** Working on a project using React and Tailwind CSS.
-- 📈 **GitHub Growth:** Continuously improving my profile with real-world projects.
-- 🎓 **Academic Journey:** Learning AI & ML concepts alongside university studies.
+| 🚀 **What I'm Doing** | 💡 **My Passions** |
+| :--- | :--- |
+| 🔹 Learning **MERN** (MongoDB, Express, React, Node) and building full-stack web projects.<br>⚡ Exploring **Next.js** for better web performance and SSR.<br>🏖️ Working on a **Tourism Website** using React and Tailwind CSS.<br>📈 Improving my **GitHub profile** with real-world projects.<br>🎓 Learning **AI & ML concepts** alongside university studies. | **Software Engineer** with a strong passion for **AI, ML & Robotics** 🤖 |
 
----
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
