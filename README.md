@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/pvKS6vNf/Gemini-Generated-Image-of920nof920nof92.png" alt="Banner" />
+  <img src="Gemini_Generated_Image_of920nof920nof92.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanzid Ahmed</h1>
