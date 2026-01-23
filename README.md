@@ -27,7 +27,6 @@
 
 <div align="center">
 
-<h2 align="center">🌐 Web Development</h2>
 
 | Skills Overview | Technology |
 | :---: | :--- |
