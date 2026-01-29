@@ -63,7 +63,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> **C++** | Competitive Programming, STL, OOP | *In Progress* |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> **Java** | Basics to Multi-threading | *In Progress* |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> **JS** | React.js & Modern Ecosystems | [View Projects](#-featured-projects) |
-
+| <img src="https://skillicons.dev/icons?i=python" /> | React.js & Modern Ecosystems | [View Projects](#-featured-projects) |
 </div>
 
 
